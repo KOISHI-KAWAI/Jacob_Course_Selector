@@ -6,7 +6,7 @@
 
 - ### Usage
 
-  1. Please make sure the installation of Python3 then use following command to install requirement in command line.
+  1. Please make sure the installation of Python3 and the Chrome browser then use following command to install requirement in command line.
 
      ```cmd
      pip install -r requirements.txt
@@ -20,7 +20,7 @@
 
   3. Follow the instruction, if you run the script for the first time, you have to manually configurate `config.ini` file.
 
-     ![image-20250104043044744](C:\Users\11923\AppData\Roaming\Typora\typora-user-images\image-20250104043044744.png)
+     ![image-20250104043044744](https://github.com/KOISHI-KAWAI/Jacob_Course_Selector/blob/main/example.png)
 
      Input course name (section) you would like to pick from red rectangle (No space), and fill the configuration file like this. (You only need to worry about the course name under the each row of typeName, electiveTypeId).
 
