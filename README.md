@@ -1,4 +1,4 @@
-# Jacob_Course_Selector
+# Jacob's Course Selector
 
 - ### Summary
 
